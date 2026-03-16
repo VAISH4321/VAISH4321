@@ -176,43 +176,6 @@ Email
 
 ---
 
-# Contribution Snake
-
-To enable the animated snake that eats your contributions, create a workflow file:
-
-`.github/workflows/snake.yml`
-
-```
-name: generate animation
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: VAISH4321
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-```
-
-Then add this image to the README:
-
-```
-![snake](https://github.com/VAISH4321/VAISH4321/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
 <p align="center">
 This profile showcases projects, machine learning work, and full-stack development experience.
 </p>
