@@ -1,4 +1,9 @@
-<h1 align="center">Vaishnavi Moramshetty</h1>
+<!-- Animated Banner Header -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=200&section=header&text=Vaishnavi%20Moramshetty&fontSize=40&fontAlignY=40&animation=fadeIn" />
+</p>
+
 <h3 align="center">Artificial Intelligence | Machine Learning | Full Stack Development</h3>
 
 <p align="center">
@@ -13,58 +18,51 @@ B.Tech student in Electronics and Communication Engineering at
 BVRIT Hyderabad College of Engineering for Women.
 
 Interested in Artificial Intelligence, Machine Learning, and building intelligent real-world systems.
-Focused on combining **AI models with scalable full-stack applications and APIs**.
+Focused on developing AI-powered applications, APIs, and scalable full-stack systems.
 
 ---
 
 # Technology Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,flask,fastapi,mongodb,mysql,git,github,linux" />
-
 </p>
 
 Machine Learning
-NumPy • Pandas • Scikit-learn • Model Evaluation • Data Processing
+NumPy • Pandas • Scikit-learn • Data Processing • Model Evaluation
+
+Frameworks
+React • Node.js • Express • Flask • FastAPI
 
 Tools
-Streamlit • Git • Linux • REST APIs
+Git • Linux • Streamlit
 
 APIs
 Twilio WhatsApp API • Google Gemini API
 
 ---
 
-# GitHub Analytics
+# AI Project Showcase
+
+## Milk Adulteration Detection System
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VAISH4321&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAISH4321&layout=compact&hide_border=true"/>
-
+<img src="https://raw.githubusercontent.com/VAISH4321/Milk-Adulteration-Detection/main/assets/dashboard.png" width="600"/>
 </p>
 
----
+Machine learning system designed to classify milk quality using parameters such as:
 
-# Contribution Streak
+* pH
+* Temperature
+* Odor
+* Turbidity
 
-<p align="center">
+Features
 
-<img src="https://streak-stats.demolab.com?user=VAISH4321&hide_border=true"/>
-
-</p>
-
----
-
-# Development Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAISH4321&bg_color=ffffff&color=000000&line=2563EB&point=000000&hide_border=true"/>
-
-</p>
+* Data preprocessing pipeline
+* Machine learning classification model
+* Model evaluation metrics
+* Streamlit dashboard for prediction visualization
 
 ---
 
@@ -78,28 +76,36 @@ Twilio WhatsApp API • Google Gemini API
 
 AI Skill Gap and Roadmap Platform
 
-Full-stack system that analyzes user skills and identifies domain-specific skill gaps.
+<p align="center">
+<img src="https://raw.githubusercontent.com/VAISH4321/CareerBridge-AI-Skill-Gap-Roadmap-Platform/main/assets/dashboard.png" width="400"/>
+</p>
+
+Full stack platform that analyzes user skills and identifies domain skill gaps.
 Generates personalized learning roadmaps using AI models.
 
 Technologies
 Python • FastAPI • JavaScript • REST APIs
 
-Repository
-https://github.com/VAISH4321/CareerBridge-AI-Skill-Gap-Roadmap-Platform
-
 </td>
 
 <td width="50%">
 
-### Milk Adulteration Detection
+### Care-Wise Medical Chatbot
 
-Machine learning model that detects milk quality using parameters such as
-pH, temperature, odor, and turbidity.
+<p align="center">
+<img src="https://raw.githubusercontent.com/VAISH4321/Care-Wise/main/assets/chatbot.png" width="400"/>
+</p>
 
-Includes preprocessing pipeline, training, evaluation, and dashboard visualization.
+WhatsApp based AI chatbot that provides symptom guidance using AI APIs.
+
+Features
+
+* Multilingual communication
+* Voice interaction
+* AI powered medical guidance
 
 Technologies
-Python • Scikit-learn • Pandas • Streamlit
+Python • Twilio API • Gemini API
 
 </td>
 </tr>
@@ -107,33 +113,34 @@ Python • Scikit-learn • Pandas • Streamlit
 <tr>
 <td width="50%">
 
-### Care-Wise Medical Chatbot
+### MindCare Mental Health Platform
 
-WhatsApp-based AI chatbot that provides symptom guidance using AI APIs.
+<p align="center">
+<img src="https://raw.githubusercontent.com/VAISH4321/Mind-Care/main/assets/system.png" width="400"/>
+</p>
 
-Supports multilingual interaction and voice features.
+AI powered messaging platform designed for mental health assistance.
+
+Features
+
+* Real time messaging
+* Risk classification
+* Asynchronous processing using Celery and Redis
 
 Technologies
-Python • Twilio API • Gemini API • Streamlit
-
-Repository
-https://github.com/VAISH4321/Care-Wise
+Python • Flask • Celery • Redis
 
 </td>
 
 <td width="50%">
 
-### MindCare Mental Health Platform
+### Smart IoT + AI Systems
 
-AI-driven messaging system designed for mental health assistance.
+Projects combining sensors, machine learning, and dashboards to solve real-world problems such as:
 
-Includes asynchronous background task processing and conversation risk classification.
-
-Technologies
-Python • Flask • Celery • Redis
-
-Repository
-https://github.com/VAISH4321/Mind-Care
+* smart monitoring systems
+* intelligent prediction models
+* IoT data analysis platforms
 
 </td>
 </tr>
@@ -145,11 +152,11 @@ https://github.com/VAISH4321/Mind-Care
 
 First Prize – Gen AI Hackathon organized by SmartBridge and NASSCOM FutureSkills Prime.
 
-Finalist – AI Days for presenting an AI-driven mental health support platform.
+Finalist – AI Days for presenting the MindCare mental health platform.
 
 Runner-up – Sambhasa Chatbot Competition.
 
-Solved more than 100 problems on LeetCode focused on data structures and algorithms.
+Solved more than 100 problems on LeetCode focusing on Data Structures and Algorithms.
 
 ---
 
@@ -176,6 +183,10 @@ Email
 
 ---
 
+# Contribution Animation
+
+![snake](https://github.com/VAISH4321/VAISH4321/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
-This profile showcases projects, machine learning work, and full-stack development experience.
+Profile focused on artificial intelligence systems, full stack development, and hackathon projects.
 </p>
