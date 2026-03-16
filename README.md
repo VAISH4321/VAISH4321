@@ -46,10 +46,6 @@ Twilio WhatsApp API • Google Gemini API
 
 ## Milk Adulteration Detection System
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/VAISH4321/Milk-Adulteration-Detection/main/assets/dashboard.png" width="600"/>
-</p>
-
 Machine learning system designed to classify milk quality using parameters such as:
 
 * pH
@@ -76,10 +72,6 @@ Features
 
 AI Skill Gap and Roadmap Platform
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/VAISH4321/CareerBridge-AI-Skill-Gap-Roadmap-Platform/main/assets/dashboard.png" width="400"/>
-</p>
-
 Full stack platform that analyzes user skills and identifies domain skill gaps.
 Generates personalized learning roadmaps using AI models.
 
@@ -91,10 +83,6 @@ Python • FastAPI • JavaScript • REST APIs
 <td width="50%">
 
 ### Care-Wise Medical Chatbot
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/VAISH4321/Care-Wise/main/assets/chatbot.png" width="400"/>
-</p>
 
 WhatsApp based AI chatbot that provides symptom guidance using AI APIs.
 
@@ -115,10 +103,6 @@ Python • Twilio API • Gemini API
 
 ### MindCare Mental Health Platform
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/VAISH4321/Mind-Care/main/assets/system.png" width="400"/>
-</p>
-
 AI powered messaging platform designed for mental health assistance.
 
 Features
@@ -133,18 +117,6 @@ Python • Flask • Celery • Redis
 </td>
 
 <td width="50%">
-
-### Smart IoT + AI Systems
-
-Projects combining sensors, machine learning, and dashboards to solve real-world problems such as:
-
-* smart monitoring systems
-* intelligent prediction models
-* IoT data analysis platforms
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -182,10 +154,6 @@ Email
 [vaishnavimoramshetty2004@gmail.com](mailto:vaishnavimoramshetty2004@gmail.com)
 
 ---
-
-# Contribution Animation
-
-![snake](https://github.com/VAISH4321/VAISH4321/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 Profile focused on artificial intelligence systems, full stack development, and hackathon projects.
