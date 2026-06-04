@@ -1,159 +1,181 @@
-<h1 align="center">Vaishnavi Moramshetty</h1>
-<h3 align="center">Artificial Intelligence | Machine Learning | Full Stack Development</h3>
+
+<h1 align="center">Hi 👋, I'm Vaishnavi Moramshetty</h1>
+
+<h3 align="center">Artificial Intelligence • Machine Learning • Full-Stack Development</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=2563EB&center=true&vCenter=true&size=24&lines=Artificial+Intelligence;Machine+Learning+Engineer;Full+Stack+Developer;Hackathon+Builder;IoT+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning+Engineer;Full-Stack+Developer;Hackathon+Innovator;Building+Real-World+AI+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/VAISH4321">
+    <img src="https://img.shields.io/github/followers/VAISH4321?label=Followers&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-# About
+# 🚀 About Me
 
-B.Tech student in Electronics and Communication Engineering at
-BVRIT Hyderabad College of Engineering for Women.
+🎓 B.Tech in Electronics & Communication Engineering  
+🏫 BVRIT Hyderabad College of Engineering for Women
 
-Interested in Artificial Intelligence, Machine Learning, and building intelligent real-world systems.
-Focused on combining **AI models with scalable full-stack applications and APIs**.
+💡 Passionate about:
+
+- Artificial Intelligence
+- Machine Learning
+- Full-Stack Development
+- Generative AI
+- IoT Systems
+- Scalable Web Applications
+
+🎯 Building intelligent products that solve real-world problems through AI and software engineering.
 
 ---
 
-# Technology Stack
+# 🛠️ Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,flask,fastapi,mongodb,mysql,git,github,linux" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
 </p>
 
-Machine Learning
-NumPy • Pandas • Scikit-learn • Model Evaluation • Data Processing
+### Frontend
 
-Tools
-Streamlit • Git • Linux • REST APIs
-
-APIs
-Twilio WhatsApp API • Google Gemini API
-
----
-
-# Development Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAISH4321&bg_color=ffffff&color=000000&line=2563EB&point=000000&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+### Machine Learning
+
+- NumPy
+- Pandas
+- Scikit-learn
+- Data Analysis
+- Feature Engineering
+- Model Evaluation
+
+### APIs
+
+- Google Gemini API
+- Twilio WhatsApp API
+- REST APIs
+
 ---
 
-# Featured Projects
+# 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🔹 CareerBridge
 
-### CareerBridge
+AI-powered Skill Gap Analysis and Personalized Learning Roadmap Platform.
 
-AI Skill Gap and Roadmap Platform
+**Tech Stack:** Python, FastAPI, JavaScript, REST APIs
 
-Full-stack system that analyzes user skills and identifies domain-specific skill gaps.
-Generates personalized learning roadmaps using AI models.
-
-Technologies
-Python • FastAPI • JavaScript • REST APIs
-
-Repository
+🔗 Repository  
 https://github.com/VAISH4321/CareerBridge-AI-Skill-Gap-Roadmap-Platform
 
-</td>
+---
 
-<td width="50%">
+## 🔹 Care-Wise Medical Chatbot
 
-### Milk Adulteration Detection
+WhatsApp-based AI chatbot that provides symptom guidance and multilingual interaction.
 
-Machine learning model that detects milk quality using parameters such as
-pH, temperature, odor, and turbidity.
+**Tech Stack:** Python, Gemini API, Twilio API, Streamlit
 
-Includes preprocessing pipeline, training, evaluation, and dashboard visualization.
-
-Technologies
-Python • Scikit-learn • Pandas • Streamlit
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Care-Wise Medical Chatbot
-
-WhatsApp-based AI chatbot that provides symptom guidance using AI APIs.
-
-Supports multilingual interaction and voice features.
-
-Technologies
-Python • Twilio API • Gemini API • Streamlit
-
-Repository
+🔗 Repository  
 https://github.com/VAISH4321/Care-Wise
 
-</td>
+---
 
-<td width="50%">
+## 🔹 MindCare Mental Health Platform
 
-### MindCare Mental Health Platform
+AI-driven mental health assistance system with intelligent risk classification.
 
-AI-driven messaging system designed for mental health assistance.
+**Tech Stack:** Python, Flask, Redis, Celery
 
-Includes asynchronous background task processing and conversation risk classification.
-
-Technologies
-Python • Flask • Celery • Redis
-
-Repository
+🔗 Repository  
 https://github.com/VAISH4321/Mind-Care
 
-</td>
-</tr>
-</table>
+---
+
+## 🔹 Milk Adulteration Detection
+
+Machine Learning system that predicts milk quality using multiple quality parameters.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
-First Prize – Gen AI Hackathon organized by SmartBridge and NASSCOM FutureSkills Prime.
+🥇 First Prize — Gen AI Hackathon (SmartBridge & NASSCOM FutureSkills Prime)
 
-Finalist – AI Days for presenting an AI-driven mental health support platform.
+🏅 Finalist — AI Days Innovation Competition
 
-Runner-up – Sambhasa Chatbot Competition.
+🥈 Runner-Up — Sambhasa Chatbot Competition
 
-Solved more than 100 problems on LeetCode focused on data structures and algorithms.
+💻 Solved 100+ DSA Problems on LeetCode
 
 ---
 
-# Coding Profiles
+# 📚 Currently Learning
 
-LeetCode
+- Deep Learning
+- Large Language Models (LLMs)
+- MLOps
+- System Design
+- Advanced Data Structures & Algorithms
+
+---
+
+# 🌐 Coding Profiles
+
+### LeetCode
+
 https://leetcode.com/u/vaishnavimoramshetty/
 
-CodeChef
+### CodeChef
+
 https://www.codechef.com/users/vaish_2004
 
 ---
 
-# Contact
+# 🤝 Connect With Me
 
-LinkedIn
-https://www.linkedin.com/in/vaishnavi-moramshetty/
+<p align="left">
+<a href="https://www.linkedin.com/in/vaishnavi-moramshetty/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-GitHub
-https://github.com/VAISH4321
+<a href="https://github.com/VAISH4321">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 
-Email
-[vaishnavimoramshetty2004@gmail.com](mailto:vaishnavimoramshetty2004@gmail.com)
+📧 Email:  
+vaishnavimoramshetty2004@gmail.com
 
 ---
 
 <p align="center">
-This profile showcases projects, machine learning work, and full-stack development experience.
+✨ Building AI-powered solutions that create real-world impact ✨
 </p>
