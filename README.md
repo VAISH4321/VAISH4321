@@ -1,111 +1,149 @@
-# 👋 Hey, I'm Vaishnavi
+
+<h1 align="center">Hi 👋, I'm Vaishnavi Moramshetty</h1>
+
+<h3 align="center">
+Software Developer • AI Engineer • Backend Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Backend+Development;Machine+Learning+Projects;Hackathon+Builder;Always+Learning+New+Things" />
+</p>
+
+---
+
+# 👩‍💻 About Me
 
 ```python
 class Vaishnavi:
+
     education = "B.Tech ECE @ BVRIT Hyderabad"
+
     interests = [
+        "Software Development",
         "Artificial Intelligence",
         "Machine Learning",
-        "Full Stack Development",
-        "Generative AI",
-        "IoT Systems"
+        "Backend Engineering",
+        "Problem Solving"
     ]
 
-    currently_building = [
-        "AI Applications",
-        "ML Projects",
-        "Hackathon Solutions"
+    currently_learning = [
+        "Data Structures",
+        "Algorithms",
+        "Advanced Backend Development"
     ]
 
-    goal = "Build technology that creates real-world impact"
-```
+    motto = "Build. Learn. Improve."
+````
+
+I enjoy building intelligent software systems that combine AI, Machine Learning, and Backend Development to solve real-world problems.
 
 ---
 
-## 💭 Who Am I?
+# 🚀 Tech Stack
 
-I'm an engineering student who enjoys transforming ideas into working products.
+### Languages
 
-Whether it's an AI-powered chatbot, a machine learning model, or a full-stack platform, I love building systems that solve practical problems.
+* Python
+* C++
+* JavaScript
 
-I am particularly interested in:
+### Backend Development
 
-🧠 Artificial Intelligence
+* Flask
+* FastAPI
+* Node.js
+* Express.js
 
-🤖 Machine Learning
+### Frontend
 
-🌐 Full-Stack Development
+* HTML
+* CSS
+* JavaScript
+* React
 
-📊 Data-Driven Applications
+### Databases
 
-⚡ Scalable Backend Systems
+* MongoDB
+* MySQL
 
----
+### Machine Learning
 
-## 🛠 My Toolbox
+* NumPy
+* Pandas
+* Scikit-Learn
+* Data Preprocessing
+* Model Evaluation
 
-<table>
-<tr>
-<td><strong>Languages</strong></td>
-<td>Python • C++ • JavaScript</td>
-</tr>
+### Tools
 
-<tr>
-<td><strong>Frontend</strong></td>
-<td>HTML • CSS • React</td>
-</tr>
+* Git
+* GitHub
+* Linux
+* VS Code
 
-<tr>
-<td><strong>Backend</strong></td>
-<td>Flask • FastAPI • Node.js • Express</td>
-</tr>
+### APIs
 
-<tr>
-<td><strong>Databases</strong></td>
-<td>MongoDB • MySQL</td>
-</tr>
-
-<tr>
-<td><strong>ML Stack</strong></td>
-<td>NumPy • Pandas • Scikit-Learn</td>
-</tr>
-
-<tr>
-<td><strong>Tools</strong></td>
-<td>Git • GitHub • Linux • VS Code</td>
-</tr>
-
-</table>
+* Gemini API
+* Twilio WhatsApp API
+* REST APIs
 
 ---
 
-## 🚀 Projects I'm Proud Of
+# 🌟 Featured Projects
 
-### 🧭 CareerBridge
+## 🧭 CareerBridge
 
-An AI-powered platform that identifies skill gaps and generates personalized learning roadmaps.
+AI-powered platform that analyzes user skills and generates personalized learning roadmaps.
+
+**Tech Stack**
+
+FastAPI • Python • JavaScript • REST APIs
+
+🔗 Repository
+
+https://github.com/VAISH4321/CareerBridge-AI-Skill-Gap-Roadmap-Platform
 
 ---
 
-### 🩺 Care-Wise
+## 🩺 Care-Wise
 
-A WhatsApp-based medical chatbot using AI APIs for intelligent symptom guidance.
+WhatsApp-based AI medical chatbot providing symptom guidance and multilingual support.
+
+**Tech Stack**
+
+Python • Gemini API • Twilio API • Streamlit
+
+🔗 Repository
+
+https://github.com/VAISH4321/Care-Wise
 
 ---
 
-### 🧠 MindCare
+## 🧠 MindCare
 
 Mental health assistance platform featuring AI-driven conversation analysis and risk classification.
 
+**Tech Stack**
+
+Flask • Redis • Celery • Python
+
+🔗 Repository
+
+https://github.com/VAISH4321/Mind-Care
+
 ---
 
-### 🥛 Milk Adulteration Detection
+## 🥛 Milk Adulteration Detection
 
-Machine Learning solution for predicting milk quality using chemical and physical parameters.
+Machine Learning model that predicts milk quality using physical and chemical parameters.
+
+**Tech Stack**
+
+Python • Pandas • Scikit-Learn • Streamlit
 
 ---
 
-## 🏆 Milestones
+# 🏆 Achievements
 
 🥇 Winner — Gen AI Hackathon
 
@@ -113,40 +151,56 @@ Machine Learning solution for predicting milk quality using chemical and physica
 
 🥈 Runner-Up — Sambhasa Chatbot Competition
 
-💻 100+ DSA Problems Solved
+💻 Solved 100+ Problems on LeetCode
 
 ---
 
-## 📈 2026 Goals
+# 📚 Currently Learning
 
-* Solve 300+ DSA problems
-* Master Deep Learning
-* Build production-level AI systems
-* Contribute to Open Source
-* Secure a Software/AI Engineering role
+```text
+✓ Data Structures & Algorithms
+
+✓ Object-Oriented Programming
+
+✓ Backend Development
+
+✓ Machine Learning
+
+✓ AI Application Development
+```
 
 ---
 
-## 🌍 Find Me Around The Web
+# 🌐 Coding Profiles
 
-🔗 LinkedIn
-[www.linkedin.com/in/vaishnavi-moramshetty](http://www.linkedin.com/in/vaishnavi-moramshetty)
+### LeetCode
 
-💻 GitHub
-github.com/VAISH4321
+https://leetcode.com/u/vaishnavimoramshetty/
 
-🧩 LeetCode
-leetcode.com/u/vaishnavimoramshetty
+### CodeChef
 
-🏁 CodeChef
-codechef.com/users/vaish_2004
+https://www.codechef.com/users/vaish_2004
 
-📧 Email
+---
+
+# 🤝 Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/vaishnavi-moramshetty/
+
+### GitHub
+
+https://github.com/VAISH4321
+
+### Email
+
 [vaishnavimoramshetty2004@gmail.com](mailto:vaishnavimoramshetty2004@gmail.com)
 
 ---
 
-> "The best way to learn technology is to build with it."
+<p align="center">
 
-```
-```
+"Building intelligent software that creates real-world impact."
+
+</p>
