@@ -1,181 +1,152 @@
+# 👋 Hey, I'm Vaishnavi
 
-<h1 align="center">Hi 👋, I'm Vaishnavi Moramshetty</h1>
+```python
+class Vaishnavi:
+    education = "B.Tech ECE @ BVRIT Hyderabad"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Full Stack Development",
+        "Generative AI",
+        "IoT Systems"
+    ]
 
-<h3 align="center">Artificial Intelligence • Machine Learning • Full-Stack Development</h3>
+    currently_building = [
+        "AI Applications",
+        "ML Projects",
+        "Hackathon Solutions"
+    ]
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning+Engineer;Full-Stack+Developer;Hackathon+Innovator;Building+Real-World+AI+Systems" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/VAISH4321">
-    <img src="https://img.shields.io/github/followers/VAISH4321?label=Followers&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-# 🚀 About Me
-
-🎓 B.Tech in Electronics & Communication Engineering  
-🏫 BVRIT Hyderabad College of Engineering for Women
-
-💡 Passionate about:
-
-- Artificial Intelligence
-- Machine Learning
-- Full-Stack Development
-- Generative AI
-- IoT Systems
-- Scalable Web Applications
-
-🎯 Building intelligent products that solve real-world problems through AI and software engineering.
+    goal = "Build technology that creates real-world impact"
+```
 
 ---
 
-# 🛠️ Tech Stack
+## 💭 Who Am I?
 
-### Languages
+I'm an engineering student who enjoys transforming ideas into working products.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
-</p>
+Whether it's an AI-powered chatbot, a machine learning model, or a full-stack platform, I love building systems that solve practical problems.
 
-### Frontend
+I am particularly interested in:
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+🧠 Artificial Intelligence
 
-### Backend
+🤖 Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-</p>
+🌐 Full-Stack Development
 
-### Databases
+📊 Data-Driven Applications
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
-### Machine Learning
-
-- NumPy
-- Pandas
-- Scikit-learn
-- Data Analysis
-- Feature Engineering
-- Model Evaluation
-
-### APIs
-
-- Google Gemini API
-- Twilio WhatsApp API
-- REST APIs
+⚡ Scalable Backend Systems
 
 ---
 
-# 🌟 Featured Projects
+## 🛠 My Toolbox
 
-## 🔹 CareerBridge
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>Python • C++ • JavaScript</td>
+</tr>
 
-AI-powered Skill Gap Analysis and Personalized Learning Roadmap Platform.
+<tr>
+<td><strong>Frontend</strong></td>
+<td>HTML • CSS • React</td>
+</tr>
 
-**Tech Stack:** Python, FastAPI, JavaScript, REST APIs
+<tr>
+<td><strong>Backend</strong></td>
+<td>Flask • FastAPI • Node.js • Express</td>
+</tr>
 
-🔗 Repository  
-https://github.com/VAISH4321/CareerBridge-AI-Skill-Gap-Roadmap-Platform
+<tr>
+<td><strong>Databases</strong></td>
+<td>MongoDB • MySQL</td>
+</tr>
 
----
+<tr>
+<td><strong>ML Stack</strong></td>
+<td>NumPy • Pandas • Scikit-Learn</td>
+</tr>
 
-## 🔹 Care-Wise Medical Chatbot
+<tr>
+<td><strong>Tools</strong></td>
+<td>Git • GitHub • Linux • VS Code</td>
+</tr>
 
-WhatsApp-based AI chatbot that provides symptom guidance and multilingual interaction.
-
-**Tech Stack:** Python, Gemini API, Twilio API, Streamlit
-
-🔗 Repository  
-https://github.com/VAISH4321/Care-Wise
-
----
-
-## 🔹 MindCare Mental Health Platform
-
-AI-driven mental health assistance system with intelligent risk classification.
-
-**Tech Stack:** Python, Flask, Redis, Celery
-
-🔗 Repository  
-https://github.com/VAISH4321/Mind-Care
-
----
-
-## 🔹 Milk Adulteration Detection
-
-Machine Learning system that predicts milk quality using multiple quality parameters.
-
-**Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
+</table>
 
 ---
 
-# 🏆 Achievements
+## 🚀 Projects I'm Proud Of
 
-🥇 First Prize — Gen AI Hackathon (SmartBridge & NASSCOM FutureSkills Prime)
+### 🧭 CareerBridge
 
-🏅 Finalist — AI Days Innovation Competition
+An AI-powered platform that identifies skill gaps and generates personalized learning roadmaps.
+
+---
+
+### 🩺 Care-Wise
+
+A WhatsApp-based medical chatbot using AI APIs for intelligent symptom guidance.
+
+---
+
+### 🧠 MindCare
+
+Mental health assistance platform featuring AI-driven conversation analysis and risk classification.
+
+---
+
+### 🥛 Milk Adulteration Detection
+
+Machine Learning solution for predicting milk quality using chemical and physical parameters.
+
+---
+
+## 🏆 Milestones
+
+🥇 Winner — Gen AI Hackathon
+
+🏅 Finalist — AI Days
 
 🥈 Runner-Up — Sambhasa Chatbot Competition
 
-💻 Solved 100+ DSA Problems on LeetCode
+💻 100+ DSA Problems Solved
 
 ---
 
-# 📚 Currently Learning
+## 📈 2026 Goals
 
-- Deep Learning
-- Large Language Models (LLMs)
-- MLOps
-- System Design
-- Advanced Data Structures & Algorithms
-
----
-
-# 🌐 Coding Profiles
-
-### LeetCode
-
-https://leetcode.com/u/vaishnavimoramshetty/
-
-### CodeChef
-
-https://www.codechef.com/users/vaish_2004
+* Solve 300+ DSA problems
+* Master Deep Learning
+* Build production-level AI systems
+* Contribute to Open Source
+* Secure a Software/AI Engineering role
 
 ---
 
-# 🤝 Connect With Me
+## 🌍 Find Me Around The Web
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vaishnavi-moramshetty/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+🔗 LinkedIn
+[www.linkedin.com/in/vaishnavi-moramshetty](http://www.linkedin.com/in/vaishnavi-moramshetty)
 
-<a href="https://github.com/VAISH4321">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+💻 GitHub
+github.com/VAISH4321
 
-📧 Email:  
-vaishnavimoramshetty2004@gmail.com
+🧩 LeetCode
+leetcode.com/u/vaishnavimoramshetty
+
+🏁 CodeChef
+codechef.com/users/vaish_2004
+
+📧 Email
+[vaishnavimoramshetty2004@gmail.com](mailto:vaishnavimoramshetty2004@gmail.com)
 
 ---
 
-<p align="center">
-✨ Building AI-powered solutions that create real-world impact ✨
-</p>
+> "The best way to learn technology is to build with it."
+
+```
+```
